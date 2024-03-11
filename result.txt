@@ -1,0 +1,10159 @@
+**** Adım: 1 ****
+Koyun: 18
+İnek: 10
+Tavuk: 6
+Kurt: 10
+Horoz: 10
+Aslan: 8
+Avcı: 1
+Eklenen: 
+Silinen: (Koyun: 12) (Tavuk: 4) 
+
+**** Adım: 2 ****
+Koyun: 18
+İnek: 10
+Tavuk: 6
+Kurt: 10
+Horoz: 10
+Aslan: 8
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 3 ****
+Koyun: 17
+İnek: 10
+Tavuk: 6
+Kurt: 10
+Horoz: 9
+Aslan: 8
+Avcı: 1
+Eklenen: 
+Silinen: (Koyun: 1) (Horoz: 1) 
+
+**** Adım: 4 ****
+Koyun: 17
+İnek: 10
+Tavuk: 6
+Kurt: 10
+Horoz: 9
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: (Aslan: 1) 
+
+**** Adım: 5 ****
+Koyun: 16
+İnek: 10
+Tavuk: 6
+Kurt: 10
+Horoz: 9
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: (Koyun: 1) 
+
+**** Adım: 6 ****
+Koyun: 15
+İnek: 10
+Tavuk: 6
+Kurt: 10
+Horoz: 9
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: (Koyun: 1) 
+
+**** Adım: 7 ****
+Koyun: 15
+İnek: 10
+Tavuk: 6
+Kurt: 10
+Horoz: 9
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 8 ****
+Koyun: 15
+İnek: 10
+Tavuk: 6
+Kurt: 10
+Horoz: 9
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 9 ****
+Koyun: 15
+İnek: 10
+Tavuk: 6
+Kurt: 10
+Horoz: 9
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 10 ****
+Koyun: 15
+İnek: 10
+Tavuk: 6
+Kurt: 10
+Horoz: 9
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 11 ****
+Koyun: 15
+İnek: 10
+Tavuk: 4
+Kurt: 10
+Horoz: 9
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: (Tavuk: 2) 
+
+**** Adım: 12 ****
+Koyun: 15
+İnek: 10
+Tavuk: 4
+Kurt: 10
+Horoz: 9
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 13 ****
+Koyun: 15
+İnek: 10
+Tavuk: 4
+Kurt: 10
+Horoz: 9
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 14 ****
+Koyun: 15
+İnek: 10
+Tavuk: 4
+Kurt: 10
+Horoz: 9
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 15 ****
+Koyun: 15
+İnek: 10
+Tavuk: 4
+Kurt: 10
+Horoz: 9
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 16 ****
+Koyun: 15
+İnek: 10
+Tavuk: 4
+Kurt: 10
+Horoz: 8
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: (Horoz: 1) 
+
+**** Adım: 17 ****
+Koyun: 15
+İnek: 10
+Tavuk: 3
+Kurt: 10
+Horoz: 8
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: (Tavuk: 1) 
+
+**** Adım: 18 ****
+Koyun: 15
+İnek: 10
+Tavuk: 3
+Kurt: 10
+Horoz: 8
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 19 ****
+Koyun: 15
+İnek: 10
+Tavuk: 3
+Kurt: 10
+Horoz: 8
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 20 ****
+Koyun: 15
+İnek: 10
+Tavuk: 3
+Kurt: 10
+Horoz: 8
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 21 ****
+Koyun: 15
+İnek: 10
+Tavuk: 3
+Kurt: 10
+Horoz: 8
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 22 ****
+Koyun: 13
+İnek: 10
+Tavuk: 2
+Kurt: 10
+Horoz: 8
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: (Koyun: 2) (Tavuk: 1) 
+
+**** Adım: 23 ****
+Koyun: 13
+İnek: 10
+Tavuk: 2
+Kurt: 10
+Horoz: 8
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 24 ****
+Koyun: 12
+İnek: 10
+Tavuk: 2
+Kurt: 10
+Horoz: 8
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: (Koyun: 1) 
+
+**** Adım: 25 ****
+Koyun: 12
+İnek: 10
+Tavuk: 2
+Kurt: 10
+Horoz: 8
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 26 ****
+Koyun: 12
+İnek: 10
+Tavuk: 2
+Kurt: 10
+Horoz: 8
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 27 ****
+Koyun: 12
+İnek: 10
+Tavuk: 2
+Kurt: 10
+Horoz: 8
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 28 ****
+Koyun: 12
+İnek: 10
+Tavuk: 2
+Kurt: 10
+Horoz: 8
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 29 ****
+Koyun: 12
+İnek: 10
+Tavuk: 2
+Kurt: 10
+Horoz: 8
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 30 ****
+Koyun: 12
+İnek: 10
+Tavuk: 2
+Kurt: 10
+Horoz: 8
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 31 ****
+Koyun: 11
+İnek: 10
+Tavuk: 2
+Kurt: 10
+Horoz: 8
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: (Koyun: 1) 
+
+**** Adım: 32 ****
+Koyun: 10
+İnek: 10
+Tavuk: 2
+Kurt: 10
+Horoz: 8
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: (Koyun: 1) 
+
+**** Adım: 33 ****
+Koyun: 10
+İnek: 10
+Tavuk: 2
+Kurt: 10
+Horoz: 8
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 34 ****
+Koyun: 10
+İnek: 10
+Tavuk: 2
+Kurt: 10
+Horoz: 8
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 35 ****
+Koyun: 10
+İnek: 10
+Tavuk: 2
+Kurt: 10
+Horoz: 8
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 36 ****
+Koyun: 10
+İnek: 10
+Tavuk: 2
+Kurt: 10
+Horoz: 8
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 37 ****
+Koyun: 10
+İnek: 10
+Tavuk: 2
+Kurt: 10
+Horoz: 7
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: (Horoz: 1) 
+
+**** Adım: 38 ****
+Koyun: 10
+İnek: 10
+Tavuk: 2
+Kurt: 10
+Horoz: 7
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 39 ****
+Koyun: 9
+İnek: 10
+Tavuk: 2
+Kurt: 10
+Horoz: 7
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: (Koyun: 1) 
+
+**** Adım: 40 ****
+Koyun: 9
+İnek: 10
+Tavuk: 2
+Kurt: 10
+Horoz: 7
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 41 ****
+Koyun: 9
+İnek: 10
+Tavuk: 2
+Kurt: 10
+Horoz: 7
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 42 ****
+Koyun: 9
+İnek: 10
+Tavuk: 2
+Kurt: 10
+Horoz: 7
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 43 ****
+Koyun: 9
+İnek: 10
+Tavuk: 2
+Kurt: 10
+Horoz: 7
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 44 ****
+Koyun: 9
+İnek: 10
+Tavuk: 2
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: (Kurt: 1) (Horoz: 1) 
+
+**** Adım: 45 ****
+Koyun: 9
+İnek: 10
+Tavuk: 2
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 46 ****
+Koyun: 9
+İnek: 10
+Tavuk: 2
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 47 ****
+Koyun: 9
+İnek: 10
+Tavuk: 2
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 48 ****
+Koyun: 9
+İnek: 10
+Tavuk: 2
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 49 ****
+Koyun: 9
+İnek: 10
+Tavuk: 2
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 50 ****
+Koyun: 9
+İnek: 10
+Tavuk: 2
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 51 ****
+Koyun: 9
+İnek: 10
+Tavuk: 2
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 52 ****
+Koyun: 9
+İnek: 10
+Tavuk: 2
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 53 ****
+Koyun: 9
+İnek: 10
+Tavuk: 2
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 54 ****
+Koyun: 9
+İnek: 10
+Tavuk: 2
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 55 ****
+Koyun: 9
+İnek: 10
+Tavuk: 2
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 56 ****
+Koyun: 9
+İnek: 10
+Tavuk: 2
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 57 ****
+Koyun: 8
+İnek: 10
+Tavuk: 2
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: (Koyun: 1) 
+
+**** Adım: 58 ****
+Koyun: 8
+İnek: 10
+Tavuk: 2
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 59 ****
+Koyun: 8
+İnek: 10
+Tavuk: 2
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 60 ****
+Koyun: 8
+İnek: 10
+Tavuk: 2
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 61 ****
+Koyun: 8
+İnek: 10
+Tavuk: 2
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 62 ****
+Koyun: 8
+İnek: 10
+Tavuk: 2
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 63 ****
+Koyun: 8
+İnek: 10
+Tavuk: 2
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 64 ****
+Koyun: 8
+İnek: 10
+Tavuk: 2
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 65 ****
+Koyun: 8
+İnek: 10
+Tavuk: 2
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 66 ****
+Koyun: 8
+İnek: 10
+Tavuk: 2
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 67 ****
+Koyun: 6
+İnek: 10
+Tavuk: 2
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: (Koyun: 2) 
+
+**** Adım: 68 ****
+Koyun: 6
+İnek: 10
+Tavuk: 2
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 69 ****
+Koyun: 6
+İnek: 10
+Tavuk: 2
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 70 ****
+Koyun: 6
+İnek: 10
+Tavuk: 1
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: (Tavuk: 1) 
+
+**** Adım: 71 ****
+Koyun: 6
+İnek: 10
+Tavuk: 1
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 72 ****
+Koyun: 6
+İnek: 10
+Tavuk: 1
+Kurt: 9
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 73 ****
+Koyun: 6
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: (Kurt: 1) 
+
+**** Adım: 74 ****
+Koyun: 6
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 75 ****
+Koyun: 6
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 76 ****
+Koyun: 6
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 77 ****
+Koyun: 5
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: (Koyun: 1) 
+
+**** Adım: 78 ****
+Koyun: 5
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 79 ****
+Koyun: 5
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 80 ****
+Koyun: 5
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 6
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 81 ****
+Koyun: 4
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 5
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: (Koyun: 1) (Horoz: 1) 
+
+**** Adım: 82 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: (Koyun: 1) (Horoz: 2) 
+
+**** Adım: 83 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 84 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 85 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 86 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 87 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 88 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 89 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 90 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 91 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 92 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 93 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 94 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 95 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 96 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 97 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 98 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 99 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 100 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 101 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 102 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 103 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 104 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 105 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 106 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 107 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 108 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 109 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 110 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 111 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 112 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 113 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 114 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 115 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 116 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 117 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 118 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 119 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 120 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 121 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 122 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 123 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 124 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 125 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 126 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 127 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 128 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 129 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 130 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 131 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 132 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 133 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 134 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 135 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 136 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 137 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 138 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 139 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 140 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 141 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 142 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 143 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 144 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 145 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 146 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 147 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 148 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 149 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 150 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 151 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 152 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 153 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 154 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 155 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 156 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 157 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 158 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 159 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 160 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 161 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 162 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 163 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 164 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 165 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 166 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 167 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 8
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 168 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: (Kurt: 1) 
+
+**** Adım: 169 ****
+Koyun: 3
+İnek: 10
+Tavuk: 1
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 170 ****
+Koyun: 3
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: (Tavuk: 1) 
+
+**** Adım: 171 ****
+Koyun: 3
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 172 ****
+Koyun: 3
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 173 ****
+Koyun: 3
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 174 ****
+Koyun: 3
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 175 ****
+Koyun: 3
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 176 ****
+Koyun: 3
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 177 ****
+Koyun: 3
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 178 ****
+Koyun: 3
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 179 ****
+Koyun: 3
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 180 ****
+Koyun: 3
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 181 ****
+Koyun: 3
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 182 ****
+Koyun: 3
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 183 ****
+Koyun: 3
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 184 ****
+Koyun: 3
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 185 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: (Koyun: 1) 
+
+**** Adım: 186 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 187 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 188 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 189 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 190 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 191 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 192 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 193 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 194 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 195 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 196 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 197 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 198 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 199 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 200 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 201 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 202 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 203 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 204 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 205 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 206 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 207 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 208 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 209 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 210 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 211 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 212 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 213 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 214 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 215 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 216 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 217 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 218 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 219 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 220 ****
+Koyun: 2
+İnek: 10
+Kurt: 7
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 221 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: (Kurt: 1) 
+
+**** Adım: 222 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 223 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 224 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 225 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 226 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 227 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 228 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 229 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 230 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 231 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 232 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 233 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 234 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 235 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 236 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 237 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 238 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 239 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 240 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 241 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 242 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 243 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 244 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 245 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 246 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 247 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 248 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 249 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 250 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 251 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 252 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 253 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 254 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 255 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 256 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 257 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 258 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 259 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 260 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 261 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 262 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 263 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 264 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 265 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 266 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 267 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 268 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 269 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 270 ****
+Koyun: 2
+İnek: 10
+Kurt: 6
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 271 ****
+Koyun: 2
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: (Kurt: 1) 
+
+**** Adım: 272 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: (Koyun: 1) 
+
+**** Adım: 273 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 274 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 275 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 276 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 277 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 278 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 279 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 280 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 281 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 282 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 283 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 284 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 285 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 286 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 287 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 288 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 289 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 290 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 291 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 292 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 293 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 294 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 295 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 296 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 297 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 298 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 299 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 300 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 301 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 302 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 303 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 304 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 305 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 306 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 307 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 308 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 309 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 310 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 311 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 312 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 313 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 314 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 315 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 316 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 317 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 318 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 319 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 320 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 321 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 322 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 323 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 324 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 325 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 326 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 327 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 328 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 329 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 330 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 331 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 332 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 333 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 334 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 335 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 336 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 337 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 338 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 339 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 340 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 7
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 341 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: (Aslan: 1) 
+
+**** Adım: 342 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 343 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 344 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 345 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 346 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 347 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 348 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 349 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 350 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 351 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 352 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 353 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 354 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 355 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 356 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 357 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 358 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 359 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 360 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 361 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 362 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 363 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 364 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 365 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 366 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 367 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 368 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 369 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 370 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 371 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 372 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 373 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 374 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 375 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 376 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 377 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 378 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 379 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 380 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 381 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 382 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 383 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 384 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 385 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 386 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 387 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 388 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 389 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 390 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 391 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 392 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 393 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 394 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 395 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 396 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 397 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 398 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 399 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 400 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 401 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 402 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 403 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 404 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 405 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 406 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 407 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 408 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 409 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 410 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 411 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 412 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 413 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 414 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 415 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 416 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 417 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 418 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 419 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 420 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 421 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 422 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 423 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 424 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 425 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 426 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 427 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 428 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 429 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 430 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 431 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 432 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 433 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 434 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 435 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 436 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 437 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 438 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 439 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 440 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 441 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 442 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 443 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 444 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 445 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 446 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 447 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 448 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 449 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 450 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 451 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 452 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 453 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 454 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 455 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 456 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 457 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 458 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 459 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 460 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 461 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 462 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 463 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 464 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 465 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 466 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 467 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 468 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 469 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 470 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 471 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 472 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 473 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 474 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 475 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 476 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 477 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 478 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 479 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 480 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 481 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 482 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 483 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 484 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 485 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 486 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 487 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 488 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 489 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 490 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 491 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 492 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 493 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 494 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 495 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 496 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 497 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 498 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 499 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 500 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 501 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 502 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 503 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 504 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 505 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 506 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 507 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 508 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 509 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 510 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 511 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 512 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 513 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 514 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 515 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 516 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 517 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 518 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 519 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 520 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 521 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 522 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 523 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 524 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 525 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 526 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 527 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 528 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 529 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 530 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 531 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 532 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 533 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 534 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 535 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 536 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 537 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 538 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 539 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 540 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 541 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 542 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 543 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 544 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 545 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 546 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 547 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 548 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 549 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 550 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 551 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 552 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 553 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 554 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 555 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 556 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 557 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 558 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 559 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 560 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 561 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 562 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 563 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 564 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 565 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 566 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 567 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 568 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 569 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 570 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 571 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 572 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 573 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 574 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 575 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 576 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 577 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 578 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 579 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 580 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 581 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 582 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 583 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 584 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 585 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 586 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 587 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 588 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 589 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 590 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 591 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 592 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 593 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 594 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 595 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 596 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 597 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 598 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 599 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 600 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 601 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 602 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 603 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 604 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 605 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 606 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 607 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 608 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 609 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 610 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 611 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 612 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 613 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 614 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 615 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 616 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 617 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 618 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 619 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 620 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 621 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 622 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 623 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 624 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 625 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 626 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 627 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 628 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 629 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 630 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 631 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 632 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 633 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 634 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 635 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 636 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 637 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 638 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 639 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 640 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 641 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 642 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 643 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 644 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 645 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 646 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 647 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 648 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 649 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 650 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 651 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 652 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 653 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 654 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 655 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 656 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 657 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 658 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 659 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 660 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 661 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 662 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 663 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 664 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 665 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 666 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 6
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 667 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: (Aslan: 1) 
+
+**** Adım: 668 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 669 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 670 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 671 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 672 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 673 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 674 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 675 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 676 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 677 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 678 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 679 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 680 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 681 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 682 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 683 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 684 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 685 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 686 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 687 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 688 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 689 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 690 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 691 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 692 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 693 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 694 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 695 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 696 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 697 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 698 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 699 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 700 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 701 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 702 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 703 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 704 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 705 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 706 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 707 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 708 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 709 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 710 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 711 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 712 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 713 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 714 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 715 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 716 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 717 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 718 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 719 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 720 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 721 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 722 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 723 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 724 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 725 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 726 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 727 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 728 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 729 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 730 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 731 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 732 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 733 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 734 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 735 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 736 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 737 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 738 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 739 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 740 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 741 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 742 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 743 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 744 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 745 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 746 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 747 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 748 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 749 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 750 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 751 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 752 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 753 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 754 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 755 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 756 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 757 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 758 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 759 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 760 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 761 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 762 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 763 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 764 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 765 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 766 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 767 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 768 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 769 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 770 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 771 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 772 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 773 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 774 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 775 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 776 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 777 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 778 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 779 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 780 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 781 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 782 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 783 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 784 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 785 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 786 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 787 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 788 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 789 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 790 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 791 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 792 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 793 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 794 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 795 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 796 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 797 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 798 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 799 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 800 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 801 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 802 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 803 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 804 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 805 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 806 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 807 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 808 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 809 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 810 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 811 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 812 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 813 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 814 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 815 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 816 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 817 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 818 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 819 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 820 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 821 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 822 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 823 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 824 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 825 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 826 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 827 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 828 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 829 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 830 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 831 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 832 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 833 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 834 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 835 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 836 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 837 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 838 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 839 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 840 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 841 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 3
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 842 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: (Horoz: 1) 
+
+**** Adım: 843 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 844 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 845 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 846 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 847 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 848 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 849 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 850 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 851 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 852 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 853 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 854 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 855 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 856 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 857 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 858 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 859 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 860 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 861 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 862 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 863 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 864 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 865 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 866 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 867 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 868 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 869 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 870 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 871 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 872 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 873 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 874 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 875 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 876 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 877 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 878 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 879 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 880 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 881 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 882 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 883 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 884 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 885 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 886 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 887 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 888 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 889 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 890 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 891 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 892 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 893 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 894 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 895 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 896 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 897 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 898 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 899 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 900 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 901 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 902 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 903 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 904 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 905 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 906 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 907 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 908 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 909 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 910 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 911 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 912 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 913 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 914 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 915 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 916 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 917 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 918 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 919 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 920 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 921 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 922 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 923 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 924 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 925 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 926 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 927 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 928 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 929 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 930 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 931 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 932 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 933 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 934 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 935 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 936 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 937 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 938 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 939 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 940 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 941 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 942 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 943 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 944 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 945 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 946 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 947 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 948 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 949 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 950 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 951 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 952 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 953 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 954 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 955 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 956 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 957 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 958 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 959 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 960 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 961 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 962 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 963 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 964 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 965 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 966 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 967 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 968 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 969 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 970 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 971 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 972 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 973 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 974 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 975 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 976 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 977 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 978 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 979 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 980 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 981 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 982 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 983 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 984 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 985 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 986 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 987 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 988 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 989 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 990 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 991 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 992 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 993 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 994 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 995 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 996 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 997 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 998 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
+**** Adım: 999 ****
+Koyun: 1
+İnek: 10
+Kurt: 5
+Horoz: 2
+Aslan: 5
+Avcı: 1
+Eklenen: 
+Silinen: 
+
